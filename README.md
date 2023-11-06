@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseedsonamorim&label=Profile%20views&color=0e75b6&style=flat" alt="joseedsonamorim" /> </p>
 
-- 🔭 I’m currently working on **TEOCOMP-NE 22**
+- 🔭 I’m currently working on **Prefeitura do Recife**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **ServiceNow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/joseedsonamorim](https://github.com/joseedsonamorim)
 
